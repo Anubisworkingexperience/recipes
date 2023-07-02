@@ -1,9 +1,6 @@
 # recipes
-This is recipes project written using html only.
+This is recipes project.
 This project is the part of theodinproject.com curriculum.
 It contains 4 pages:
-index.html -- main page
-recipes pages:
-chickenNoodleSoup.html
-hotdog.html
-hamCheeseSliders.html
+main page and 3 recipes pages.
+Website link: https://anubisworkingexperience.github.io/recipes/

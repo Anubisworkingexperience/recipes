@@ -1,0 +1,29 @@
+.header, .subheader {
+    font-family: 'Georgia', 'Times New Roman', serif;
+}
+
+.header {
+    font-size: 60px;
+}
+
+.subheader {
+    font-size: 30px;
+}
+
+body {
+    background-color: bisque;
+}
+
+img {
+    border: solid 2px red;
+}
+
+.wish {
+    font-family: "Papyrus", "Copperplate", fantasy;
+    color: rgb(220, 20, 93);
+}
+
+.fancyText {
+    font-size: 1.2em;
+    color: rgb(95, 3, 81);
+}
